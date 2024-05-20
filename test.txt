@@ -3,3 +3,4 @@ Nagoya
 Osaka
 Fukuoka
 Okinawa
+Chiba
